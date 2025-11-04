@@ -10,6 +10,7 @@
 void processToken(const char token[]);
 
 // An orbitrary comment.
+// A second orbitrary comment.
 
 int main(int argc, char *argv[])
 {
