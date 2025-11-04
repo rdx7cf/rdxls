@@ -9,6 +9,8 @@
 
 void processToken(const char token[]);
 
+// An orbitrary comment.
+
 int main(int argc, char *argv[])
 {
 	if (argc == 1)
